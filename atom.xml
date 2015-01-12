@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://jendai.github.io/atom.xml" rel="self"/>
+  <link href="http://jendai.github.io/"/>
+  <updated>2015-01-12T16:21:04-05:00</updated>
+  <id>http://jendai.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hipster Is the Way to Go.]]></title>
+    <link href="http://jendai.github.io/blog/2015/01/12/hipster-is-the-way-to-go/"/>
+    <updated>2015-01-12T15:46:28-05:00</updated>
+    <id>http://jendai.github.io/blog/2015/01/12/hipster-is-the-way-to-go</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Day 1]]></title>
+    <link href="http://jendai.github.io/blog/2015/01/12/day-1/"/>
+    <updated>2015-01-12T15:45:36-05:00</updated>
+    <id>http://jendai.github.io/blog/2015/01/12/day-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
